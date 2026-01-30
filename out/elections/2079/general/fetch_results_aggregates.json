@@ -1,0 +1,1332 @@
+[
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/12.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/12.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/11.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/11.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/8.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/8.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/12.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/12.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/11.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/11.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/7.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/7.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/10.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/10.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/7.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/7.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/10.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/10.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/9.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/9.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/8.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/8.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/13.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/13.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/9.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/9.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/15.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/15.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/17.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/17.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/16.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/16.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/18.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/18.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/19.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/19.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/19.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/19.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/18.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/18.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/20.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/20.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/20.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/20.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/15.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/15.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/22.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/22.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/13.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/13.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/23.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/23.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/16.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/16.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/22.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/22.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/24.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/24.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/25.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/25.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/17.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/17.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/26.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/26.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/14.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/14.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/14.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/14.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/27.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/27.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/28.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/28.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/28.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/28.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/27.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/27.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/29.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/29.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/21.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/21.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/29.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/29.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/25.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/25.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/24.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/24.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/32.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/32.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/30.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/30.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/31.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/31.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/31.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/31.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/34.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/34.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/33.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/33.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/33.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/33.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/30.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/30.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/34.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/34.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/36.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/36.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/35.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/35.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/37.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/37.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/32.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/32.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/37.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/37.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/26.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/26.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/38.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/38.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/38.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/38.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/39.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/39.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/41.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/41.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/40.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/40.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/21.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/21.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/36.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/36.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/43.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/43.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/43.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/43.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/44.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/44.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/39.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/39.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/41.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/41.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/42.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/42.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/40.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/40.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/42.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/42.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/45.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/45.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/35.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/35.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/23.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/23.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/46.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/46.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/47.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/47.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/49.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/49.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/48.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/48.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/49.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/49.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/45.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/45.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/46.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/46.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/44.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/44.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/52.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/52.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/53.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/53.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/53.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/53.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/50.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/50.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/51.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/51.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/51.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/51.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/47.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/47.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/54.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/54.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/56.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/56.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/55.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/55.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/55.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/55.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/50.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/50.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/48.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/48.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/52.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/52.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/57.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/57.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/58.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/58.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/58.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/58.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/61.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/61.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/56.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/56.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/60.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/60.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/57.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/57.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/61.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/61.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/63.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/63.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/62.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/62.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/59.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/59.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/59.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/59.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/54.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/54.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/60.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/60.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/64.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/64.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/65.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/65.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/67.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/67.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/66.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/66.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/68.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/68.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/65.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/65.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/68.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/68.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/70.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/70.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/62.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/62.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/71.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/71.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/71.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/71.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/64.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/64.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/72.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/72.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/67.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/67.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/72.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/72.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/66.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/66.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/74.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/74.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/69.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/69.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/73.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/73.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/70.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/70.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/63.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/63.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/75.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/75.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/69.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/69.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/75.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/75.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/77.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/77.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/74.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/74.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/73.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/73.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/77.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/77.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/78.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/districts/78.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/Province/1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/provinces/1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/Province/1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/provinces/1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/Province/3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/provinces/3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/Province/2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/provinces/2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/Province/2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/provinces/2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/78.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/districts/78.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/Province/4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/provinces/4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/Province/3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/provinces/3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/Province/6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/provinces/6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/Province/6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/provinces/6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/Province/7.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/provinces/7.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/Province/4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/provinces/4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/Province/5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/provinces/5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/Province/5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/provinces/5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PAPartyTop5-S1.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PAPartyTop5-S1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/HoRPartyTop5.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/HoRPartyTop5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PAPartyTop5-S2.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PAPartyTop5-S2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PRPAPartyTop5-S2.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PRPAPartyTop5-S2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PAPartyTop5-S3.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PAPartyTop5-S3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PRPAPartyTop5-S3.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PRPAPartyTop5-S3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PAPartyTop5-S4.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PAPartyTop5-S4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PRPAPartyTop5-S4.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PRPAPartyTop5-S4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PRPAPartyTop5-S1.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PRPAPartyTop5-S1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PRPAPartyTop5-S5.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PRPAPartyTop5-S5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/Province/7.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/provinces/7.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PAPartyTop5-S5.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PAPartyTop5-S5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PAPartyTop5-S7.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PAPartyTop5-S7.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PRPAPartyTop5-S6.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PRPAPartyTop5-S6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/ElectionResultCentralPR.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pr/central/ElectionResultCentralPR.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/ElectedCandidatePRCentral.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pr/central/ElectedCandidatePRCentral.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PRHoRPartyTop5.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PRHoRPartyTop5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PRPAPartyTop5-S7.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PRPAPartyTop5-S7.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/Common/PAPartyTop5-S6.txt",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/summary/top5/PAPartyTop5-S6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/99.json",
+    "status": 404,
+    "ok": false,
+    "path": "elections/2079/general/datasets/hor/pr/districts/99.json",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/District/98.json",
+    "status": 404,
+    "ok": false,
+    "path": "elections/2079/general/datasets/hor/pr/districts/98.json",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/99.json",
+    "status": 404,
+    "ok": false,
+    "path": "elections/2079/general/datasets/pa/pr/districts/99.json",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/District/98.json",
+    "status": 404,
+    "ok": false,
+    "path": "elections/2079/general/datasets/pa/pr/districts/98.json",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

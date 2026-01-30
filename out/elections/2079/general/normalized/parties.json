@@ -1,0 +1,296 @@
+[
+  {
+    "PartyID": 1,
+    "PoliticalPartyName": "नेपाली काँग्रेस",
+    "SymbolID": 1,
+    "SymbolName": "रुख"
+  },
+  {
+    "PartyID": 2,
+    "PoliticalPartyName": "नेपाल कम्युनिष्ट पार्टी (एमाले)",
+    "SymbolID": 2,
+    "SymbolName": "सूर्य"
+  },
+  {
+    "PartyID": 3,
+    "PoliticalPartyName": "एकल चिन्ह गोलाकारभित्रको हसिया हथौडा लिएका",
+    "SymbolID": 3,
+    "SymbolName": "गोलाकारभित्र हसिया हथौडा"
+  },
+  {
+    "PartyID": 4,
+    "PoliticalPartyName": "राष्ट्रिय प्रजातन्त्र पार्टी",
+    "SymbolID": 4,
+    "SymbolName": "गाई"
+  },
+  {
+    "PartyID": 5,
+    "PoliticalPartyName": "राष्ट्रिय जनता पार्टी नेपाल",
+    "SymbolID": 5,
+    "SymbolName": "छाता"
+  },
+  {
+    "PartyID": 7,
+    "PoliticalPartyName": "राष्ट्रिय प्रजातन्त्र पार्टी (प्रजातान्त्रिक)",
+    "SymbolID": 7,
+    "SymbolName": "गोलाकारभित्र हलो"
+  },
+  {
+    "PartyID": 8,
+    "PoliticalPartyName": "संघीय समाजवादी फोरम, नेपाल",
+    "SymbolID": 8,
+    "SymbolName": "हातले समातेको मशाल"
+  },
+  {
+    "PartyID": 9,
+    "PoliticalPartyName": "एकल चिन्ह हसिया तारा लिएका",
+    "SymbolID": 9,
+    "SymbolName": "हँसिया तारा"
+  },
+  {
+    "PartyID": 10,
+    "PoliticalPartyName": "राष्ट्रिय जनमोर्चा",
+    "SymbolID": 10,
+    "SymbolName": "गिलास"
+  },
+  {
+    "PartyID": 12,
+    "PoliticalPartyName": "नेपाल मजदुर किसान पार्टी",
+    "SymbolID": 12,
+    "SymbolName": "मादल"
+  },
+  {
+    "PartyID": 13,
+    "PoliticalPartyName": "राष्ट्रिय जनमुक्ति पार्टी",
+    "SymbolID": 13,
+    "SymbolName": "घर"
+  },
+  {
+    "PartyID": 15,
+    "PoliticalPartyName": "बहुजन शक्ति पार्टी",
+    "SymbolID": 15,
+    "SymbolName": "जग"
+  },
+  {
+    "PartyID": 17,
+    "PoliticalPartyName": "नेपाली जनता दल",
+    "SymbolID": 17,
+    "SymbolName": "गोरु गाडाको चक्का (पाङ्ग्रो)"
+  },
+  {
+    "PartyID": 20,
+    "PoliticalPartyName": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च(थरुहट)",
+    "SymbolID": 20,
+    "SymbolName": "गाग्री"
+  },
+  {
+    "PartyID": 21,
+    "PoliticalPartyName": "नयाँ शक्ति पार्टी, नेपाल",
+    "SymbolID": 21,
+    "SymbolName": " देब्रे आँखा"
+  },
+  {
+    "PartyID": 22,
+    "PoliticalPartyName": "ग्रीन पार्टी नेपाल",
+    "SymbolID": 22,
+    "SymbolName": "ऊँट"
+  },
+  {
+    "PartyID": 23,
+    "PoliticalPartyName": "नेपाल समावेशी पार्टी",
+    "SymbolID": 23,
+    "SymbolName": "सुगा"
+  },
+  {
+    "PartyID": 24,
+    "PoliticalPartyName": "नेपाल नौलो जनवादी पार्टी",
+    "SymbolID": 24,
+    "SymbolName": "चुच्चोले चिठ्ठी बोकेर उड्न लागेको परेवा"
+  },
+  {
+    "PartyID": 25,
+    "PoliticalPartyName": "राष्ट्रिय यथार्थवादी पार्टी, नेपाल",
+    "SymbolID": 25,
+    "SymbolName": "डाँफे"
+  },
+  {
+    "PartyID": 26,
+    "PoliticalPartyName": "चुरेभावर लोकतान्त्रिक पार्टी",
+    "SymbolID": 26,
+    "SymbolName": "भकुण्डो"
+  },
+  {
+    "PartyID": 28,
+    "PoliticalPartyName": "तामाङसालिङ लोकतान्त्रिक पार्टी ",
+    "SymbolID": 28,
+    "SymbolName": "बज्र"
+  },
+  {
+    "PartyID": 29,
+    "PoliticalPartyName": "नेपाल संघीय समाजवादी पार्टी",
+    "SymbolID": 29,
+    "SymbolName": "बस"
+  },
+  {
+    "PartyID": 34,
+    "PoliticalPartyName": "एकीकृत राष्ट्रिय प्रजातन्त्र पार्टी(राष्ट्रवादी)",
+    "SymbolID": 34,
+    "SymbolName": "आयाताकारभित्रको हलो"
+  },
+  {
+    "PartyID": 35,
+    "PoliticalPartyName": "मंगोल नेशनल अर्गनाइजेसन",
+    "SymbolID": 35,
+    "SymbolName": "कुखुराको भाले"
+  },
+  {
+    "PartyID": 37,
+    "PoliticalPartyName": "जनशक्ति नेपाल",
+    "SymbolID": 37,
+    "SymbolName": "गोलाकारभित्र छाता"
+  },
+  {
+    "PartyID": 39,
+    "PoliticalPartyName": "देशभक्त जनगणतान्त्रिक मोर्चा, नेपाल",
+    "SymbolID": 39,
+    "SymbolName": "मुठ्ठी"
+  },
+  {
+    "PartyID": 42,
+    "PoliticalPartyName": "विवेकशील साझा पार्टी",
+    "SymbolID": 42,
+    "SymbolName": "तराजु"
+  },
+  {
+    "PartyID": 46,
+    "PoliticalPartyName": "नेपाः राष्ट्रिय पार्टी",
+    "SymbolID": 46,
+    "SymbolName": "खड्ग"
+  },
+  {
+    "PartyID": 48,
+    "PoliticalPartyName": "नेपाल दलित पार्टी",
+    "SymbolID": 48,
+    "SymbolName": "इनार"
+  },
+  {
+    "PartyID": 49,
+    "PoliticalPartyName": "नेपाल युवा किसान पार्टी",
+    "SymbolID": 49,
+    "SymbolName": "केराको काईंयो"
+  },
+  {
+    "PartyID": 51,
+    "PoliticalPartyName": "राष्ट्रिय मुक्ति आन्दोलन नेपाल",
+    "SymbolID": 51,
+    "SymbolName": "षटकोण"
+  },
+  {
+    "PartyID": 52,
+    "PoliticalPartyName": "देशभक्त समाज",
+    "SymbolID": 52,
+    "SymbolName": "जरायो"
+  },
+  {
+    "PartyID": 53,
+    "PoliticalPartyName": "हाम्रो पार्टी",
+    "SymbolID": 53,
+    "SymbolName": "धारा"
+  },
+  {
+    "PartyID": 56,
+    "PoliticalPartyName": "संघीय लोकतान्त्रिक राष्ट्रिय मञ्च",
+    "SymbolID": 56,
+    "SymbolName": "दाप सहितको खुकुरी"
+  },
+  {
+    "PartyID": 57,
+    "PoliticalPartyName": "राष्ट्रिय समाजवादी पार्टी, नेपाल",
+    "SymbolID": 57,
+    "SymbolName": "पृथ्वी"
+  },
+  {
+    "PartyID": 58,
+    "PoliticalPartyName": "नेपाल दर्शन",
+    "SymbolID": 58,
+    "SymbolName": "भुईंकटहर"
+  },
+  {
+    "PartyID": 59,
+    "PoliticalPartyName": "संघीय खम्बुवान लोकतान्त्रिक पार्टी नेपाल",
+    "SymbolID": 59,
+    "SymbolName": "हवाईजहाज"
+  },
+  {
+    "PartyID": 61,
+    "PoliticalPartyName": "नेपाल सुकुम्बासी पार्टी (लोकतान्त्रिक)",
+    "SymbolID": 61,
+    "SymbolName": "डोको"
+  },
+  {
+    "PartyID": 63,
+    "PoliticalPartyName": "नेपाल लोकतान्त्रिक जनता काँगे्रस",
+    "SymbolID": 63,
+    "SymbolName": "दुई आँखा"
+  },
+  {
+    "PartyID": 64,
+    "PoliticalPartyName": "नेपाल जनता पार्टी",
+    "SymbolID": 64,
+    "SymbolName": "कमलको फूल"
+  },
+  {
+    "PartyID": 66,
+    "PoliticalPartyName": "आमूल परिवर्तन मसिहा पार्टी नेपाल",
+    "SymbolID": 66,
+    "SymbolName": "हृदय"
+  },
+  {
+    "PartyID": 69,
+    "PoliticalPartyName": "नेपालवाद",
+    "SymbolID": 69,
+    "SymbolName": "तारापूञ्ज"
+  },
+  {
+    "PartyID": 73,
+    "PoliticalPartyName": "देशभक्त लोकतान्त्रिक पार्टी",
+    "SymbolID": 73,
+    "SymbolName": "ऐना"
+  },
+  {
+    "PartyID": 74,
+    "PoliticalPartyName": "नेपाल कम्युनिष्ट पार्टी (माक्र्सवादी)",
+    "SymbolID": 74,
+    "SymbolName": "कोदालो"
+  },
+  {
+    "PartyID": 76,
+    "PoliticalPartyName": "जनप्रजातान्त्रिक पार्टी, नेपाल",
+    "SymbolID": 76,
+    "SymbolName": "गैंडा"
+  },
+  {
+    "PartyID": 78,
+    "PoliticalPartyName": "लिवरल डेमोक्रेटीक पार्टी",
+    "SymbolID": 78,
+    "SymbolName": "दमाहा"
+  },
+  {
+    "PartyID": 82,
+    "PoliticalPartyName": "युवा नेपाल पार्टी",
+    "SymbolID": 82,
+    "SymbolName": "मोटर साईकल"
+  },
+  {
+    "PartyID": 86,
+    "PoliticalPartyName": "नेपाली कांगे्रस (बी.पी.)",
+    "SymbolID": 86,
+    "SymbolName": "करुवा"
+  },
+  {
+    "PartyID": 90,
+    "PoliticalPartyName": "एकल चिन्ह सिपाही लिएका",
+    "SymbolID": 90,
+    "SymbolName": "सिपाही"
+  }
+]

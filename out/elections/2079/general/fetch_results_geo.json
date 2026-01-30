@@ -1,0 +1,1752 @@
+[
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-8.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-8.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-14.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-14.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-11.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-11.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-16.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-16.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Province.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/province.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/District/STATE_C_7.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/districts/state-7.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-10.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-10.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/District/STATE_C_2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/districts/state-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-12.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-12.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/District/STATE_C_5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/districts/state-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/District/STATE_C_4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/districts/state-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-13.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-13.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-7.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-7.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/District/STATE_C_1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/districts/state-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/District/STATE_C_3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/districts/state-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/District/STATE_C_6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/districts/state-6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-15.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-15.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-23.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-23.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-20.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-20.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-25.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-25.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-9.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-9.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-27.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-27.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-28.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-28.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-29.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-29.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-30.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-30.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-31.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-31.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-32.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-32.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-17.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-17.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-34.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-34.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-35.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-35.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-36.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-36.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-37.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-37.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-38.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-38.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-39.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-39.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-24.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-24.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-26.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-26.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-42.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-42.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-43.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-43.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-22.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-22.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-45.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-45.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-46.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-46.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-47.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-47.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-48.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-48.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-49.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-49.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-21.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-21.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-51.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-51.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-52.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-52.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-53.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-53.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-54.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-54.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-55.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-55.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-33.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-33.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-57.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-57.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-58.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-58.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-59.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-59.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-40.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-40.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-19.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-19.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-56.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-56.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-63.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-63.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-18.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-18.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-62.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-62.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-66.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-66.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-67.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-67.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-68.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-68.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-69.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-69.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-70.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-70.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-71.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-71.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-72.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-72.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-73.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-73.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-74.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-74.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-75.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-75.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-77.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-77.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-78.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-78.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-1-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-1-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-2-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-2-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-60.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-60.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-3-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-3-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-4-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-4-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-61.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-61.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-4-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-4-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-3-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-3-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-4-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-4-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-5-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-5-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-41.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-41.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-4-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-4-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-8-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-8-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-64.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-64.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-9-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-9-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-9-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-9-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-9-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-9-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-9-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-9-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-4-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-4-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-6-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-6-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-10-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-10-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-10-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-10-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-10-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-10-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-11-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-11-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-12-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-12-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-10-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-10-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-9-6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-9-6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-9-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-9-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-15-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-15-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-15-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-15-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-14-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-14-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-7-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-7-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-16-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-16-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-16-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-16-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-15-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-15-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-16-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-16-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-17-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-17-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-18-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-18-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-19-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-19-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-19-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-19-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-20-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-20-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-20-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-20-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-20-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-20-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-20-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-20-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-21-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-21-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-21-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-21-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-21-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-21-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-21-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-21-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-22-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-22-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-22-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-22-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-22-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-22-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-22-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-22-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-23-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-23-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-24-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-24-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-24-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-24-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-25-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-25-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-16-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-16-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-44.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-44.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-13-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-13-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-50.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-50.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-26-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-26-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-26-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-26-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-26-6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-26-6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-26-7.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-26-7.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/Const/dist-65.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/hor/constituencies/dist-65.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-26-9.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-26-9.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-26-10.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-26-10.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-27-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-27-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-27-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-27-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-28-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-28-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-28-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-28-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-28-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-28-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-29-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-29-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-29-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-29-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-30-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-30-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-26-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-26-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-31-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-31-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-31-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-31-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-32-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-32-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-32-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-32-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-32-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-32-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-32-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-32-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-33-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-33-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-33-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-33-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-33-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-33-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-33-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-33-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-34-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-34-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-34-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-34-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-34-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-34-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-34-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-34-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-35-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-35-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-35-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-35-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-35-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-35-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-36-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-36-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-14-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-14-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-37-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-37-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-38-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-38-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-39-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-39-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-39-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-39-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-15-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-15-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-26-8.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-26-8.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-30-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-30-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-41-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-41-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-41-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-41-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-42-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-42-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-40-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-40-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-43-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-43-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-43-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-43-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-44-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-44-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-36-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-36-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-45-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-45-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-46-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-46-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-46-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-46-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-39-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-39-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-26-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-26-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-40-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-40-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-47-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-47-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-47-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-47-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-46-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-46-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-48-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-48-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-49-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-49-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-50-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-50-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-50-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-50-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-51-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-51-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-52-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-52-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-53-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-53-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-54-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-54-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-55-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-55-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-56-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-56-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-56-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-56-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-56-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-56-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-57-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-57-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-58-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-58-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-59-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-59-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-26-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-26-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-61-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-61-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-62-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-62-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-63-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-63-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-63-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-63-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-64-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-64-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-64-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-64-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-65-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-65-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-65-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-65-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-65-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-65-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-66-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-66-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-66-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-66-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-45-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-45-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-60-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-60-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-42-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-42-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-69-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-69-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-70-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-70-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-71-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-71-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-71-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-71-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-71-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-71-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-71-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-71-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-71-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-71-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-72-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-72-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-73-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-73-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-74-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-74-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-75-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-75-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-75-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-75-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-75-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-75-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-68-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-68-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-77-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-77-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-78-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-78-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-47-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-47-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-67-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-67-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-46-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-46-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-46-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-46-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-77-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-77-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-25-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-25-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/JSONMap/geojson/pa/const-68-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/geo/pa/constituencies/const-68-2.json",
+    "error": null
+  }
+]

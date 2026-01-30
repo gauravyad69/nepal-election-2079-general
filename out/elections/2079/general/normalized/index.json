@@ -1,0 +1,2663 @@
+{
+  "generatedAt": "2026-01-30T15:21:52Z",
+  "base": "elections/2079/general",
+  "lookups": {
+    "states": "lookups/states.json",
+    "districts": "lookups/districts.json",
+    "constituencies": "lookups/constituencies.json"
+  },
+  "constituencies": [
+    {
+      "districtId": 1,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-1-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-1-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-1-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-1.json",
+        "paConstituencies": "geo/pa/constituencies/const-1-1.json"
+      },
+      "districtName": "ताप्लेजुंग",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 2,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-2-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-2-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-2-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-2.json",
+        "paConstituencies": "geo/pa/constituencies/const-2-1.json"
+      },
+      "districtName": "पाँचथर",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 3,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-3-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-3-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-3-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-3.json",
+        "paConstituencies": "geo/pa/constituencies/const-3-1.json"
+      },
+      "districtName": "इलाम",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 3,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-3-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-3-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-3-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-3.json",
+        "paConstituencies": "geo/pa/constituencies/const-3-2.json"
+      },
+      "districtName": "इलाम",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 4,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-4-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-4-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-4-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-4.json",
+        "paConstituencies": "geo/pa/constituencies/const-4-1.json"
+      },
+      "districtName": "झापा",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 4,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-4-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-4-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-4-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-4.json",
+        "paConstituencies": "geo/pa/constituencies/const-4-2.json"
+      },
+      "districtName": "झापा",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 4,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-4-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-4-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-4-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-4.json",
+        "paConstituencies": "geo/pa/constituencies/const-4-3.json"
+      },
+      "districtName": "झापा",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 4,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-4-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-4-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-4-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-4.json",
+        "paConstituencies": "geo/pa/constituencies/const-4-4.json"
+      },
+      "districtName": "झापा",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 4,
+      "constituency": 5,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-4-5.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-4-5.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-4-5.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-4.json",
+        "paConstituencies": "geo/pa/constituencies/const-4-5.json"
+      },
+      "districtName": "झापा",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 5,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-5-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-5-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-5-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-5.json",
+        "paConstituencies": "geo/pa/constituencies/const-5-1.json"
+      },
+      "districtName": "संखुवासभा",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 6,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-6-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-6-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-6-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-6.json",
+        "paConstituencies": "geo/pa/constituencies/const-6-1.json"
+      },
+      "districtName": "तेर्हथुम",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 7,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-7-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-7-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-7-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-7.json",
+        "paConstituencies": "geo/pa/constituencies/const-7-1.json"
+      },
+      "districtName": "भोजपुर",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 8,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-8-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-8-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-8-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-8.json",
+        "paConstituencies": "geo/pa/constituencies/const-8-1.json"
+      },
+      "districtName": "धनकुटा",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 9,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-9-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-9-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-9-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-9.json",
+        "paConstituencies": "geo/pa/constituencies/const-9-1.json"
+      },
+      "districtName": "मोरङ्ग",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 9,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-9-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-9-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-9-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-9.json",
+        "paConstituencies": "geo/pa/constituencies/const-9-2.json"
+      },
+      "districtName": "मोरङ्ग",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 9,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-9-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-9-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-9-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-9.json",
+        "paConstituencies": "geo/pa/constituencies/const-9-3.json"
+      },
+      "districtName": "मोरङ्ग",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 9,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-9-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-9-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-9-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-9.json",
+        "paConstituencies": "geo/pa/constituencies/const-9-4.json"
+      },
+      "districtName": "मोरङ्ग",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 9,
+      "constituency": 5,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-9-5.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-9-5.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-9-5.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-9.json",
+        "paConstituencies": "geo/pa/constituencies/const-9-5.json"
+      },
+      "districtName": "मोरङ्ग",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 9,
+      "constituency": 6,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-9-6.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-9-6.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-9-6.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-9.json",
+        "paConstituencies": "geo/pa/constituencies/const-9-6.json"
+      },
+      "districtName": "मोरङ्ग",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 10,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-10-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-10-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-10-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-10.json",
+        "paConstituencies": "geo/pa/constituencies/const-10-1.json"
+      },
+      "districtName": "सुनसरी",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 10,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-10-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-10-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-10-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-10.json",
+        "paConstituencies": "geo/pa/constituencies/const-10-2.json"
+      },
+      "districtName": "सुनसरी",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 10,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-10-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-10-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-10-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-10.json",
+        "paConstituencies": "geo/pa/constituencies/const-10-3.json"
+      },
+      "districtName": "सुनसरी",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 10,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-10-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-10-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-10-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-10.json",
+        "paConstituencies": "geo/pa/constituencies/const-10-4.json"
+      },
+      "districtName": "सुनसरी",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 11,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-11-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-11-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-11-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-11.json",
+        "paConstituencies": "geo/pa/constituencies/const-11-1.json"
+      },
+      "districtName": "सोलुखुम्बु",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 12,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-12-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-12-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-12-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-12.json",
+        "paConstituencies": "geo/pa/constituencies/const-12-1.json"
+      },
+      "districtName": "खोटाङ्ग",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 13,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-13-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-13-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-13-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-13.json",
+        "paConstituencies": "geo/pa/constituencies/const-13-1.json"
+      },
+      "districtName": "ओखलढुंगा",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 14,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-14-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-14-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-14-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-14.json",
+        "paConstituencies": "geo/pa/constituencies/const-14-1.json"
+      },
+      "districtName": "उदयपुर",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 14,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-14-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-14-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-14-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-14.json",
+        "paConstituencies": "geo/pa/constituencies/const-14-2.json"
+      },
+      "districtName": "उदयपुर",
+      "stateId": 1,
+      "stateName": "कोशी प्रदेश"
+    },
+    {
+      "districtId": 15,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-15-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-15-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-15-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-15.json",
+        "paConstituencies": "geo/pa/constituencies/const-15-1.json"
+      },
+      "districtName": "सप्तरी",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 15,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-15-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-15-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-15-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-15.json",
+        "paConstituencies": "geo/pa/constituencies/const-15-2.json"
+      },
+      "districtName": "सप्तरी",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 15,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-15-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-15-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-15-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-15.json",
+        "paConstituencies": "geo/pa/constituencies/const-15-3.json"
+      },
+      "districtName": "सप्तरी",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 15,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-15-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-15-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-15-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-15.json",
+        "paConstituencies": "geo/pa/constituencies/const-15-4.json"
+      },
+      "districtName": "सप्तरी",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 16,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-16-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-16-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-16-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-16.json",
+        "paConstituencies": "geo/pa/constituencies/const-16-1.json"
+      },
+      "districtName": "सिराहा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 16,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-16-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-16-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-16-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-16.json",
+        "paConstituencies": "geo/pa/constituencies/const-16-2.json"
+      },
+      "districtName": "सिराहा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 16,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-16-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-16-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-16-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-16.json",
+        "paConstituencies": "geo/pa/constituencies/const-16-3.json"
+      },
+      "districtName": "सिराहा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 16,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-16-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-16-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-16-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-16.json",
+        "paConstituencies": "geo/pa/constituencies/const-16-4.json"
+      },
+      "districtName": "सिराहा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 17,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-17-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-17-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-17-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-17.json",
+        "paConstituencies": "geo/pa/constituencies/const-17-1.json"
+      },
+      "districtName": "दोलखा",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 18,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-18-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-18-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-18-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-18.json",
+        "paConstituencies": "geo/pa/constituencies/const-18-1.json"
+      },
+      "districtName": "रामेछाप",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 19,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-19-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-19-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-19-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-19.json",
+        "paConstituencies": "geo/pa/constituencies/const-19-1.json"
+      },
+      "districtName": "सिन्धुली",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 19,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-19-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-19-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-19-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-19.json",
+        "paConstituencies": "geo/pa/constituencies/const-19-2.json"
+      },
+      "districtName": "सिन्धुली",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 20,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-20-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-20-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-20-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-20.json",
+        "paConstituencies": "geo/pa/constituencies/const-20-1.json"
+      },
+      "districtName": "धनुषा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 20,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-20-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-20-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-20-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-20.json",
+        "paConstituencies": "geo/pa/constituencies/const-20-2.json"
+      },
+      "districtName": "धनुषा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 20,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-20-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-20-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-20-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-20.json",
+        "paConstituencies": "geo/pa/constituencies/const-20-3.json"
+      },
+      "districtName": "धनुषा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 20,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-20-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-20-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-20-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-20.json",
+        "paConstituencies": "geo/pa/constituencies/const-20-4.json"
+      },
+      "districtName": "धनुषा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 21,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-21-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-21-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-21-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-21.json",
+        "paConstituencies": "geo/pa/constituencies/const-21-1.json"
+      },
+      "districtName": "महोत्तरी",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 21,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-21-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-21-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-21-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-21.json",
+        "paConstituencies": "geo/pa/constituencies/const-21-2.json"
+      },
+      "districtName": "महोत्तरी",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 21,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-21-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-21-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-21-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-21.json",
+        "paConstituencies": "geo/pa/constituencies/const-21-3.json"
+      },
+      "districtName": "महोत्तरी",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 21,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-21-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-21-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-21-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-21.json",
+        "paConstituencies": "geo/pa/constituencies/const-21-4.json"
+      },
+      "districtName": "महोत्तरी",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 22,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-22-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-22-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-22-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-22.json",
+        "paConstituencies": "geo/pa/constituencies/const-22-1.json"
+      },
+      "districtName": "सर्लाही",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 22,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-22-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-22-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-22-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-22.json",
+        "paConstituencies": "geo/pa/constituencies/const-22-2.json"
+      },
+      "districtName": "सर्लाही",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 22,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-22-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-22-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-22-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-22.json",
+        "paConstituencies": "geo/pa/constituencies/const-22-3.json"
+      },
+      "districtName": "सर्लाही",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 22,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-22-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-22-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-22-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-22.json",
+        "paConstituencies": "geo/pa/constituencies/const-22-4.json"
+      },
+      "districtName": "सर्लाही",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 23,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-23-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-23-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-23-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-23.json",
+        "paConstituencies": "geo/pa/constituencies/const-23-1.json"
+      },
+      "districtName": "रसुवा",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 24,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-24-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-24-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-24-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-24.json",
+        "paConstituencies": "geo/pa/constituencies/const-24-1.json"
+      },
+      "districtName": "धादिङ्ग",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 24,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-24-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-24-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-24-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-24.json",
+        "paConstituencies": "geo/pa/constituencies/const-24-2.json"
+      },
+      "districtName": "धादिङ्ग",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 25,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-25-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-25-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-25-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-25.json",
+        "paConstituencies": "geo/pa/constituencies/const-25-1.json"
+      },
+      "districtName": "नुवाकोट",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 25,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-25-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-25-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-25-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-25.json",
+        "paConstituencies": "geo/pa/constituencies/const-25-2.json"
+      },
+      "districtName": "नुवाकोट",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 26,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-26-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-26-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-26-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-26.json",
+        "paConstituencies": "geo/pa/constituencies/const-26-1.json"
+      },
+      "districtName": "काठमाडौं",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 26,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-26-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-26-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-26-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-26.json",
+        "paConstituencies": "geo/pa/constituencies/const-26-2.json"
+      },
+      "districtName": "काठमाडौं",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 26,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-26-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-26-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-26-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-26.json",
+        "paConstituencies": "geo/pa/constituencies/const-26-3.json"
+      },
+      "districtName": "काठमाडौं",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 26,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-26-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-26-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-26-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-26.json",
+        "paConstituencies": "geo/pa/constituencies/const-26-4.json"
+      },
+      "districtName": "काठमाडौं",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 26,
+      "constituency": 5,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-26-5.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-26-5.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-26-5.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-26.json",
+        "paConstituencies": "geo/pa/constituencies/const-26-5.json"
+      },
+      "districtName": "काठमाडौं",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 26,
+      "constituency": 6,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-26-6.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-26-6.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-26-6.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-26.json",
+        "paConstituencies": "geo/pa/constituencies/const-26-6.json"
+      },
+      "districtName": "काठमाडौं",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 26,
+      "constituency": 7,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-26-7.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-26-7.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-26-7.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-26.json",
+        "paConstituencies": "geo/pa/constituencies/const-26-7.json"
+      },
+      "districtName": "काठमाडौं",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 26,
+      "constituency": 8,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-26-8.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-26-8.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-26-8.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-26.json",
+        "paConstituencies": "geo/pa/constituencies/const-26-8.json"
+      },
+      "districtName": "काठमाडौं",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 26,
+      "constituency": 9,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-26-9.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-26-9.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-26-9.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-26.json",
+        "paConstituencies": "geo/pa/constituencies/const-26-9.json"
+      },
+      "districtName": "काठमाडौं",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 26,
+      "constituency": 10,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-26-10.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-26-10.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-26-10.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-26.json",
+        "paConstituencies": "geo/pa/constituencies/const-26-10.json"
+      },
+      "districtName": "काठमाडौं",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 27,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-27-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-27-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-27-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-27.json",
+        "paConstituencies": "geo/pa/constituencies/const-27-1.json"
+      },
+      "districtName": "भक्तपुर",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 27,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-27-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-27-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-27-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-27.json",
+        "paConstituencies": "geo/pa/constituencies/const-27-2.json"
+      },
+      "districtName": "भक्तपुर",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 28,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-28-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-28-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-28-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-28.json",
+        "paConstituencies": "geo/pa/constituencies/const-28-1.json"
+      },
+      "districtName": "ललितपुर",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 28,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-28-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-28-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-28-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-28.json",
+        "paConstituencies": "geo/pa/constituencies/const-28-2.json"
+      },
+      "districtName": "ललितपुर",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 28,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-28-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-28-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-28-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-28.json",
+        "paConstituencies": "geo/pa/constituencies/const-28-3.json"
+      },
+      "districtName": "ललितपुर",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 29,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-29-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-29-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-29-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-29.json",
+        "paConstituencies": "geo/pa/constituencies/const-29-1.json"
+      },
+      "districtName": "काभ्रेपलाञ्चोक",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 29,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-29-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-29-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-29-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-29.json",
+        "paConstituencies": "geo/pa/constituencies/const-29-2.json"
+      },
+      "districtName": "काभ्रेपलाञ्चोक",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 30,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-30-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-30-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-30-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-30.json",
+        "paConstituencies": "geo/pa/constituencies/const-30-1.json"
+      },
+      "districtName": "सिन्धुपाल्चोक",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 30,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-30-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-30-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-30-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-30.json",
+        "paConstituencies": "geo/pa/constituencies/const-30-2.json"
+      },
+      "districtName": "सिन्धुपाल्चोक",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 31,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-31-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-31-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-31-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-31.json",
+        "paConstituencies": "geo/pa/constituencies/const-31-1.json"
+      },
+      "districtName": "मकवानपुर",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 31,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-31-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-31-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-31-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-31.json",
+        "paConstituencies": "geo/pa/constituencies/const-31-2.json"
+      },
+      "districtName": "मकवानपुर",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 32,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-32-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-32-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-32-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-32.json",
+        "paConstituencies": "geo/pa/constituencies/const-32-1.json"
+      },
+      "districtName": "रौतहट",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 32,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-32-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-32-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-32-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-32.json",
+        "paConstituencies": "geo/pa/constituencies/const-32-2.json"
+      },
+      "districtName": "रौतहट",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 32,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-32-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-32-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-32-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-32.json",
+        "paConstituencies": "geo/pa/constituencies/const-32-3.json"
+      },
+      "districtName": "रौतहट",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 32,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-32-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-32-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-32-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-32.json",
+        "paConstituencies": "geo/pa/constituencies/const-32-4.json"
+      },
+      "districtName": "रौतहट",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 33,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-33-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-33-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-33-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-33.json",
+        "paConstituencies": "geo/pa/constituencies/const-33-1.json"
+      },
+      "districtName": "बारा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 33,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-33-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-33-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-33-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-33.json",
+        "paConstituencies": "geo/pa/constituencies/const-33-2.json"
+      },
+      "districtName": "बारा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 33,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-33-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-33-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-33-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-33.json",
+        "paConstituencies": "geo/pa/constituencies/const-33-3.json"
+      },
+      "districtName": "बारा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 33,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-33-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-33-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-33-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-33.json",
+        "paConstituencies": "geo/pa/constituencies/const-33-4.json"
+      },
+      "districtName": "बारा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 34,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-34-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-34-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-34-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-34.json",
+        "paConstituencies": "geo/pa/constituencies/const-34-1.json"
+      },
+      "districtName": "पर्सा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 34,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-34-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-34-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-34-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-34.json",
+        "paConstituencies": "geo/pa/constituencies/const-34-2.json"
+      },
+      "districtName": "पर्सा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 34,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-34-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-34-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-34-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-34.json",
+        "paConstituencies": "geo/pa/constituencies/const-34-3.json"
+      },
+      "districtName": "पर्सा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 34,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-34-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-34-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-34-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-34.json",
+        "paConstituencies": "geo/pa/constituencies/const-34-4.json"
+      },
+      "districtName": "पर्सा",
+      "stateId": 2,
+      "stateName": "मधेश प्रदेश"
+    },
+    {
+      "districtId": 35,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-35-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-35-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-35-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-35.json",
+        "paConstituencies": "geo/pa/constituencies/const-35-1.json"
+      },
+      "districtName": "चितवन",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 35,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-35-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-35-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-35-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-35.json",
+        "paConstituencies": "geo/pa/constituencies/const-35-2.json"
+      },
+      "districtName": "चितवन",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 35,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-35-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-35-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-35-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-35.json",
+        "paConstituencies": "geo/pa/constituencies/const-35-3.json"
+      },
+      "districtName": "चितवन",
+      "stateId": 3,
+      "stateName": "बागमती प्रदेश"
+    },
+    {
+      "districtId": 36,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-36-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-36-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-36-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-36.json",
+        "paConstituencies": "geo/pa/constituencies/const-36-1.json"
+      },
+      "districtName": "गोरखा",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 36,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-36-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-36-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-36-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-36.json",
+        "paConstituencies": "geo/pa/constituencies/const-36-2.json"
+      },
+      "districtName": "गोरखा",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 37,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-37-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-37-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-37-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-37.json",
+        "paConstituencies": "geo/pa/constituencies/const-37-1.json"
+      },
+      "districtName": "मनाङ्ग",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 38,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-38-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-38-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-38-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-38.json",
+        "paConstituencies": "geo/pa/constituencies/const-38-1.json"
+      },
+      "districtName": "लमजुंग",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 39,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-39-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-39-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-39-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-39.json",
+        "paConstituencies": "geo/pa/constituencies/const-39-1.json"
+      },
+      "districtName": "कास्की",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 39,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-39-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-39-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-39-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-39.json",
+        "paConstituencies": "geo/pa/constituencies/const-39-2.json"
+      },
+      "districtName": "कास्की",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 39,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-39-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-39-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-39-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-39.json",
+        "paConstituencies": "geo/pa/constituencies/const-39-3.json"
+      },
+      "districtName": "कास्की",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 40,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-40-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-40-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-40-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-40.json",
+        "paConstituencies": "geo/pa/constituencies/const-40-1.json"
+      },
+      "districtName": "तनहुँ",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 40,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-40-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-40-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-40-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-40.json",
+        "paConstituencies": "geo/pa/constituencies/const-40-2.json"
+      },
+      "districtName": "तनहुँ",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 41,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-41-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-41-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-41-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-41.json",
+        "paConstituencies": "geo/pa/constituencies/const-41-1.json"
+      },
+      "districtName": "स्याङ्जा",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 41,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-41-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-41-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-41-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-41.json",
+        "paConstituencies": "geo/pa/constituencies/const-41-2.json"
+      },
+      "districtName": "स्याङ्जा",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 42,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-42-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-42-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-42-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-42.json",
+        "paConstituencies": "geo/pa/constituencies/const-42-1.json"
+      },
+      "districtName": "गुल्मी",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 42,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-42-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-42-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-42-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-42.json",
+        "paConstituencies": "geo/pa/constituencies/const-42-2.json"
+      },
+      "districtName": "गुल्मी",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 43,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-43-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-43-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-43-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-43.json",
+        "paConstituencies": "geo/pa/constituencies/const-43-1.json"
+      },
+      "districtName": "पाल्पा",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 43,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-43-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-43-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-43-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-43.json",
+        "paConstituencies": "geo/pa/constituencies/const-43-2.json"
+      },
+      "districtName": "पाल्पा",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 44,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-44-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-44-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-44-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-44.json",
+        "paConstituencies": "geo/pa/constituencies/const-44-1.json"
+      },
+      "districtName": "अर्घाखांची",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 45,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-45-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-45-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-45-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-45.json",
+        "paConstituencies": "geo/pa/constituencies/const-45-1.json"
+      },
+      "districtName": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 45,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-45-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-45-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-45-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-45.json",
+        "paConstituencies": "geo/pa/constituencies/const-45-2.json"
+      },
+      "districtName": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 46,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-46-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-46-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-46-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-46.json",
+        "paConstituencies": "geo/pa/constituencies/const-46-1.json"
+      },
+      "districtName": "रुपन्देही",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 46,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-46-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-46-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-46-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-46.json",
+        "paConstituencies": "geo/pa/constituencies/const-46-2.json"
+      },
+      "districtName": "रुपन्देही",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 46,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-46-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-46-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-46-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-46.json",
+        "paConstituencies": "geo/pa/constituencies/const-46-3.json"
+      },
+      "districtName": "रुपन्देही",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 46,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-46-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-46-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-46-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-46.json",
+        "paConstituencies": "geo/pa/constituencies/const-46-4.json"
+      },
+      "districtName": "रुपन्देही",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 46,
+      "constituency": 5,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-46-5.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-46-5.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-46-5.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-46.json",
+        "paConstituencies": "geo/pa/constituencies/const-46-5.json"
+      },
+      "districtName": "रुपन्देही",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 47,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-47-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-47-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-47-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-47.json",
+        "paConstituencies": "geo/pa/constituencies/const-47-1.json"
+      },
+      "districtName": "कपिलवस्तु",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 47,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-47-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-47-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-47-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-47.json",
+        "paConstituencies": "geo/pa/constituencies/const-47-2.json"
+      },
+      "districtName": "कपिलवस्तु",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 47,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-47-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-47-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-47-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-47.json",
+        "paConstituencies": "geo/pa/constituencies/const-47-3.json"
+      },
+      "districtName": "कपिलवस्तु",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 48,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-48-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-48-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-48-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-48.json",
+        "paConstituencies": "geo/pa/constituencies/const-48-1.json"
+      },
+      "districtName": "मुस्तांग",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 49,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-49-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-49-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-49-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-49.json",
+        "paConstituencies": "geo/pa/constituencies/const-49-1.json"
+      },
+      "districtName": "म्याग्दी",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 50,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-50-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-50-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-50-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-50.json",
+        "paConstituencies": "geo/pa/constituencies/const-50-1.json"
+      },
+      "districtName": "बागलुङ",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 50,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-50-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-50-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-50-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-50.json",
+        "paConstituencies": "geo/pa/constituencies/const-50-2.json"
+      },
+      "districtName": "बागलुङ",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 51,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-51-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-51-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-51-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-51.json",
+        "paConstituencies": "geo/pa/constituencies/const-51-1.json"
+      },
+      "districtName": "पर्वत",
+      "stateId": 4,
+      "stateName": "गण्डकी प्रदेश"
+    },
+    {
+      "districtId": 52,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-52-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-52-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-52-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-52.json",
+        "paConstituencies": "geo/pa/constituencies/const-52-1.json"
+      },
+      "districtName": "रुकुम पूर्व",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 53,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-53-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-53-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-53-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-53.json",
+        "paConstituencies": "geo/pa/constituencies/const-53-1.json"
+      },
+      "districtName": "रोल्पा",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 54,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-54-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-54-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-54-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-54.json",
+        "paConstituencies": "geo/pa/constituencies/const-54-1.json"
+      },
+      "districtName": "प्यूठान",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 55,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-55-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-55-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-55-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-55.json",
+        "paConstituencies": "geo/pa/constituencies/const-55-1.json"
+      },
+      "districtName": "सल्यान",
+      "stateId": 6,
+      "stateName": "कर्णाली प्रदेश"
+    },
+    {
+      "districtId": 56,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-56-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-56-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-56-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-56.json",
+        "paConstituencies": "geo/pa/constituencies/const-56-1.json"
+      },
+      "districtName": "दाङ",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 56,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-56-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-56-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-56-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-56.json",
+        "paConstituencies": "geo/pa/constituencies/const-56-2.json"
+      },
+      "districtName": "दाङ",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 56,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-56-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-56-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-56-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-56.json",
+        "paConstituencies": "geo/pa/constituencies/const-56-3.json"
+      },
+      "districtName": "दाङ",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 57,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-57-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-57-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-57-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-57.json",
+        "paConstituencies": "geo/pa/constituencies/const-57-1.json"
+      },
+      "districtName": "डोल्पा",
+      "stateId": 6,
+      "stateName": "कर्णाली प्रदेश"
+    },
+    {
+      "districtId": 58,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-58-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-58-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-58-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-58.json",
+        "paConstituencies": "geo/pa/constituencies/const-58-1.json"
+      },
+      "districtName": "मुगु",
+      "stateId": 6,
+      "stateName": "कर्णाली प्रदेश"
+    },
+    {
+      "districtId": 59,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-59-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-59-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-59-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-59.json",
+        "paConstituencies": "geo/pa/constituencies/const-59-1.json"
+      },
+      "districtName": "जुम्ला",
+      "stateId": 6,
+      "stateName": "कर्णाली प्रदेश"
+    },
+    {
+      "districtId": 60,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-60-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-60-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-60-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-60.json",
+        "paConstituencies": "geo/pa/constituencies/const-60-1.json"
+      },
+      "districtName": "कालिकोट",
+      "stateId": 6,
+      "stateName": "कर्णाली प्रदेश"
+    },
+    {
+      "districtId": 61,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-61-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-61-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-61-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-61.json",
+        "paConstituencies": "geo/pa/constituencies/const-61-1.json"
+      },
+      "districtName": "हुम्ला",
+      "stateId": 6,
+      "stateName": "कर्णाली प्रदेश"
+    },
+    {
+      "districtId": 62,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-62-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-62-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-62-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-62.json",
+        "paConstituencies": "geo/pa/constituencies/const-62-1.json"
+      },
+      "districtName": "जाजरकोट",
+      "stateId": 6,
+      "stateName": "कर्णाली प्रदेश"
+    },
+    {
+      "districtId": 63,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-63-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-63-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-63-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-63.json",
+        "paConstituencies": "geo/pa/constituencies/const-63-1.json"
+      },
+      "districtName": "दैलेख",
+      "stateId": 6,
+      "stateName": "कर्णाली प्रदेश"
+    },
+    {
+      "districtId": 63,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-63-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-63-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-63-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-63.json",
+        "paConstituencies": "geo/pa/constituencies/const-63-2.json"
+      },
+      "districtName": "दैलेख",
+      "stateId": 6,
+      "stateName": "कर्णाली प्रदेश"
+    },
+    {
+      "districtId": 64,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-64-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-64-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-64-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-64.json",
+        "paConstituencies": "geo/pa/constituencies/const-64-1.json"
+      },
+      "districtName": "सुर्खेत",
+      "stateId": 6,
+      "stateName": "कर्णाली प्रदेश"
+    },
+    {
+      "districtId": 64,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-64-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-64-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-64-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-64.json",
+        "paConstituencies": "geo/pa/constituencies/const-64-2.json"
+      },
+      "districtName": "सुर्खेत",
+      "stateId": 6,
+      "stateName": "कर्णाली प्रदेश"
+    },
+    {
+      "districtId": 65,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-65-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-65-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-65-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-65.json",
+        "paConstituencies": "geo/pa/constituencies/const-65-1.json"
+      },
+      "districtName": "बाँके",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 65,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-65-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-65-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-65-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-65.json",
+        "paConstituencies": "geo/pa/constituencies/const-65-2.json"
+      },
+      "districtName": "बाँके",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 65,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-65-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-65-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-65-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-65.json",
+        "paConstituencies": "geo/pa/constituencies/const-65-3.json"
+      },
+      "districtName": "बाँके",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 66,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-66-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-66-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-66-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-66.json",
+        "paConstituencies": "geo/pa/constituencies/const-66-1.json"
+      },
+      "districtName": "बर्दिया",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 66,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-66-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-66-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-66-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-66.json",
+        "paConstituencies": "geo/pa/constituencies/const-66-2.json"
+      },
+      "districtName": "बर्दिया",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 67,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-67-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-67-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-67-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-67.json",
+        "paConstituencies": "geo/pa/constituencies/const-67-1.json"
+      },
+      "districtName": "बाजुरा",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 68,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-68-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-68-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-68-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-68.json",
+        "paConstituencies": "geo/pa/constituencies/const-68-1.json"
+      },
+      "districtName": "अछाम",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 68,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-68-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-68-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-68-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-68.json",
+        "paConstituencies": "geo/pa/constituencies/const-68-2.json"
+      },
+      "districtName": "अछाम",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 69,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-69-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-69-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-69-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-69.json",
+        "paConstituencies": "geo/pa/constituencies/const-69-1.json"
+      },
+      "districtName": "बझाङ्ग",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 70,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-70-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-70-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-70-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-70.json",
+        "paConstituencies": "geo/pa/constituencies/const-70-1.json"
+      },
+      "districtName": "डोटी",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 71,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-71-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-71-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-71-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-71.json",
+        "paConstituencies": "geo/pa/constituencies/const-71-1.json"
+      },
+      "districtName": "कैलाली",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 71,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-71-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-71-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-71-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-71.json",
+        "paConstituencies": "geo/pa/constituencies/const-71-2.json"
+      },
+      "districtName": "कैलाली",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 71,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-71-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-71-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-71-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-71.json",
+        "paConstituencies": "geo/pa/constituencies/const-71-3.json"
+      },
+      "districtName": "कैलाली",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 71,
+      "constituency": 4,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-71-4.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-71-4.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-71-4.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-71.json",
+        "paConstituencies": "geo/pa/constituencies/const-71-4.json"
+      },
+      "districtName": "कैलाली",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 71,
+      "constituency": 5,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-71-5.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-71-5.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-71-5.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-71.json",
+        "paConstituencies": "geo/pa/constituencies/const-71-5.json"
+      },
+      "districtName": "कैलाली",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 72,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-72-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-72-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-72-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-72.json",
+        "paConstituencies": "geo/pa/constituencies/const-72-1.json"
+      },
+      "districtName": "दार्चुला",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 73,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-73-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-73-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-73-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-73.json",
+        "paConstituencies": "geo/pa/constituencies/const-73-1.json"
+      },
+      "districtName": "बैतडी",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 74,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-74-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-74-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-74-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-74.json",
+        "paConstituencies": "geo/pa/constituencies/const-74-1.json"
+      },
+      "districtName": "डडेलधुरा",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 75,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-75-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-75-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-75-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-75.json",
+        "paConstituencies": "geo/pa/constituencies/const-75-1.json"
+      },
+      "districtName": "कन्चनपुर",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 75,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-75-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-75-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-75-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-75.json",
+        "paConstituencies": "geo/pa/constituencies/const-75-2.json"
+      },
+      "districtName": "कन्चनपुर",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 75,
+      "constituency": 3,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-75-3.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-75-3.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-75-3.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-75.json",
+        "paConstituencies": "geo/pa/constituencies/const-75-3.json"
+      },
+      "districtName": "कन्चनपुर",
+      "stateId": 7,
+      "stateName": "सुदूरपश्चिम प्रदेश"
+    },
+    {
+      "districtId": 77,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-77-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-77-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-77-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-77.json",
+        "paConstituencies": "geo/pa/constituencies/const-77-1.json"
+      },
+      "districtName": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 77,
+      "constituency": 2,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-77-2.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-77-2.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-77-2.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-77.json",
+        "paConstituencies": "geo/pa/constituencies/const-77-2.json"
+      },
+      "districtName": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+      "stateId": 5,
+      "stateName": "लुम्बिनी प्रदेश"
+    },
+    {
+      "districtId": 78,
+      "constituency": 1,
+      "files": {
+        "horFptp": "datasets/hor/fptp/constituencies/HOR-78-1.json",
+        "horPr": "datasets/hor/pr/constituencies/HOR-78-1.json",
+        "paPr": "datasets/pa/pr/constituencies/HOR-78-1.json"
+      },
+      "geo": {
+        "horDistrictConstituencies": "geo/hor/constituencies/dist-78.json",
+        "paConstituencies": "geo/pa/constituencies/const-78-1.json"
+      },
+      "districtName": "रुकुम पश्चिम",
+      "stateId": 6,
+      "stateName": "कर्णाली प्रदेश"
+    }
+  ],
+  "geo": {
+    "index": "geo/index.json",
+    "province": "geo/province.json"
+  },
+  "counts": {
+    "horFptpConstituencyFiles": 165,
+    "horPrConstituencyFiles": 165,
+    "paPrConstituencyFiles": 165,
+    "candidatePhotos": 2410,
+    "symbolHorPa": 144,
+    "geoFiles": 251
+  }
+}

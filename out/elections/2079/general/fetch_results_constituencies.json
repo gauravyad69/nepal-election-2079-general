@@ -1,0 +1,3467 @@
+[
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-3-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-3-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-3-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-3-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-4-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-4-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-4-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-4-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-1-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-1-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-3-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-3-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-3-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-3-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-4-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-4-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-1-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-1-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-4-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-4-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-2-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-2-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-2-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-2-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-1-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-1-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-4-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-4-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-4-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-4-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-2-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-2-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-3-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-3-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-4-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-4-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-3-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-3-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-4-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-4-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-4-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-4-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-4-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-4-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-4-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-4-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-6-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-6-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-5-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-5-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-5-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-5-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-7-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-7-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-4-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-4-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-7-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-7-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-8-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-8-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-6-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-6-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-8-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-8-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-9-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-9-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-6-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-6-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-4-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-4-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-9-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-9-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-4-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-4-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-7-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-7-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-9-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-9-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-4-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-4-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-9-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-9-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-9-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-9-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-9-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-9-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-5-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-5-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-9-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-9-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-9-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-9-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-9-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-9-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-9-6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-9-6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-9-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-9-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-9-6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-9-6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-9-6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-9-6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-9-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-9-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-8-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-8-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-10-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-10-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-9-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-9-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-10-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-10-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-10-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-10-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-9-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-9-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-10-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-10-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-10-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-10-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-10-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-10-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-10-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-10-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-11-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-11-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-9-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-9-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-10-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-10-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-12-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-12-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-10-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-10-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-12-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-12-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-13-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-13-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-10-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-10-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-11-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-11-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-14-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-14-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-9-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-9-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-10-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-10-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-14-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-14-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-14-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-14-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-14-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-14-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-12-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-12-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-10-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-10-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-15-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-15-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-14-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-14-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-15-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-15-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-13-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-13-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-15-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-15-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-13-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-13-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-14-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-14-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-15-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-15-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-15-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-15-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-15-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-15-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-15-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-15-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-15-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-15-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-15-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-15-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-16-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-16-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-15-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-15-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-11-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-11-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-16-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-16-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-16-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-16-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-15-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-15-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-16-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-16-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-16-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-16-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-16-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-16-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-15-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-15-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-16-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-16-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-17-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-17-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-18-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-18-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-16-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-16-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-17-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-17-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-18-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-18-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-19-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-19-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-16-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-16-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-19-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-19-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-16-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-16-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-16-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-16-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-20-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-20-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-17-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-17-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-20-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-20-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-19-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-19-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-20-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-20-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-19-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-19-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-16-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-16-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-20-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-20-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-20-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-20-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-20-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-20-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-20-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-20-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-20-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-20-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-20-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-20-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-21-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-21-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-18-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-18-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-21-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-21-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-19-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-19-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-19-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-19-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-21-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-21-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-21-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-21-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-21-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-21-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-21-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-21-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-21-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-21-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-20-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-20-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-22-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-22-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-21-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-21-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-20-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-20-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-22-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-22-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-21-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-21-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-22-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-22-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-20-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-20-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-21-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-21-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-22-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-22-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-22-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-22-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-22-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-22-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-22-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-22-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-23-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-23-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-22-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-22-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-22-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-22-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-22-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-22-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-23-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-23-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-24-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-24-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-24-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-24-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-24-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-24-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-21-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-21-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-25-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-25-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-24-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-24-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-22-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-22-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-24-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-24-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-22-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-22-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-25-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-25-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-26-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-26-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-24-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-24-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-23-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-23-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-26-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-26-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-25-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-25-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-26-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-26-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-26-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-26-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-26-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-26-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-26-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-26-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-26-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-26-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-25-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-25-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-21-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-21-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-26-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-26-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-26-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-26-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-26-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-26-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-26-6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-26-6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-26-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-26-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-25-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-25-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-26-7.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-26-7.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-26-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-26-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-26-7.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-26-7.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-26-6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-26-6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-26-7.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-26-7.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-26-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-26-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-26-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-26-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-26-6.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-26-6.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-26-8.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-26-8.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-26-10.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-26-10.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-26-10.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-26-10.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-26-10.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-26-10.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-27-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-27-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-26-9.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-26-9.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-27-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-27-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-27-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-27-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-26-9.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-26-9.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-26-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-26-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-28-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-28-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-26-8.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-26-8.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-25-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-25-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-28-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-28-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-26-9.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-26-9.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-28-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-28-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-28-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-28-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-27-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-27-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-26-8.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-26-8.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-29-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-29-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-27-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-27-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-27-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-27-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-29-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-29-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-28-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-28-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-28-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-28-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-30-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-30-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-28-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-28-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-29-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-29-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-30-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-30-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-28-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-28-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-30-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-30-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-31-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-31-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-29-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-29-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-31-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-31-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-31-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-31-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-31-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-31-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-31-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-31-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-32-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-32-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-29-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-29-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-28-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-28-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-32-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-32-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-30-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-30-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-32-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-32-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-32-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-32-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-31-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-31-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-32-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-32-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-32-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-32-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-30-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-30-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-32-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-32-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-33-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-33-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-29-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-29-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-30-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-30-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-33-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-33-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-33-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-33-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-33-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-33-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-32-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-32-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-32-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-32-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-33-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-33-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-33-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-33-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-33-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-33-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-33-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-33-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-34-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-34-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-33-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-33-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-33-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-33-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-34-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-34-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-33-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-33-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-32-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-32-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-34-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-34-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-34-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-34-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-34-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-34-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-34-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-34-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-33-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-33-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-34-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-34-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-35-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-35-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-32-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-32-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-32-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-32-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-35-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-35-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-34-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-34-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-34-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-34-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-35-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-35-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-34-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-34-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-35-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-35-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-35-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-35-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-35-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-35-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-36-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-36-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-36-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-36-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-36-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-36-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-36-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-36-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-37-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-37-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-34-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-34-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-34-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-34-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-37-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-37-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-35-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-35-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-35-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-35-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-39-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-39-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-39-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-39-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-39-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-39-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-38-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-38-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-35-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-35-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-39-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-39-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-39-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-39-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-38-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-38-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-39-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-39-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-40-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-40-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-36-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-36-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-39-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-39-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-40-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-40-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-40-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-40-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-37-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-37-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-41-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-41-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-36-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-36-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-40-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-40-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-41-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-41-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-39-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-39-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-40-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-40-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-42-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-42-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-39-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-39-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-41-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-41-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-42-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-42-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-41-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-41-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-41-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-41-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-43-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-43-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-41-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-41-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-38-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-38-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-42-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-42-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-42-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-42-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-43-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-43-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-44-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-44-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-44-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-44-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-43-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-43-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-42-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-42-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-43-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-43-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-44-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-44-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-45-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-45-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-43-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-43-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-40-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-40-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-46-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-46-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-43-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-43-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-45-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-45-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-46-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-46-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-46-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-46-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-46-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-46-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-46-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-46-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-45-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-45-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-46-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-46-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-45-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-45-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-45-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-45-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-46-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-46-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-46-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-46-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-46-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-46-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-46-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-46-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-47-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-47-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-46-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-46-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-46-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-46-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-47-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-47-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-47-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-47-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-46-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-46-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-47-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-47-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-47-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-47-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-47-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-47-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-48-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-48-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-47-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-47-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-47-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-47-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-49-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-49-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-46-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-46-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-42-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-42-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-47-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-47-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-50-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-50-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-49-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-49-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-50-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-50-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-50-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-50-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-49-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-49-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-46-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-46-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-48-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-48-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-50-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-50-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-52-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-52-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-45-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-45-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-51-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-51-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-53-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-53-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-48-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-48-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-51-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-51-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-54-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-54-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-52-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-52-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-52-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-52-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-55-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-55-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-54-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-54-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-55-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-55-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-56-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-56-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-50-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-50-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-53-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-53-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-56-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-56-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-56-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-56-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-50-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-50-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-56-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-56-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-51-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-51-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-55-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-55-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-57-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-57-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-53-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-53-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-57-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-57-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-58-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-58-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-56-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-56-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-57-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-57-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-59-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-59-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-54-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-54-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-59-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-59-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-56-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-56-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-60-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-60-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-58-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-58-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-61-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-61-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-56-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-56-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-61-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-61-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-62-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-62-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-60-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-60-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-62-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-62-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-63-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-63-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-58-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-58-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-56-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-56-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-63-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-63-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-63-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-63-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-62-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-62-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-64-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-64-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-64-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-64-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-61-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-61-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-60-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-60-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-63-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-63-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-64-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-64-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-56-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-56-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-65-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-65-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-59-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-59-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-64-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-64-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-65-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-65-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-65-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-65-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-65-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-65-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-65-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-65-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-65-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-65-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-66-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-66-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-66-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-66-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-65-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-65-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-66-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-66-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-66-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-66-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-65-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-65-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-64-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-64-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-67-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-67-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-65-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-65-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-63-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-63-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-68-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-68-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-66-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-66-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-67-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-67-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-68-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-68-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-66-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-66-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-69-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-69-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-68-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-68-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-68-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-68-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-70-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-70-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-63-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-63-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-70-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-70-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-71-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-71-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-64-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-64-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-67-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-67-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-71-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-71-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-68-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-68-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-69-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-69-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-71-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-71-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-71-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-71-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-71-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-71-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-71-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-71-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-69-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-69-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-71-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-71-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-71-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-71-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-71-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-71-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-71-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-71-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-72-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-72-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-71-5.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-71-5.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-72-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-72-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-73-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-73-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-70-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-70-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-73-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-73-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-74-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-74-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-74-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-74-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-74-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-74-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-75-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-75-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-75-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-75-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-71-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-71-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-75-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-75-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-71-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-71-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-75-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-75-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-75-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-75-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-72-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-72-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-73-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-73-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-68-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-68-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-77-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-77-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-75-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-75-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-77-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-77-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-77-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-77-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-77-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-77-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-71-4.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-71-4.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-77-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-77-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-78-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-78-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-75-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-75-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-71-2.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-71-2.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-77-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-77-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-75-3.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-75-3.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/FPTP/HOR-78-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/fptp/constituencies/HOR-78-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/PA/PR/HOR/HOR-75-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/pa/pr/constituencies/HOR-75-1.json",
+    "error": null
+  },
+  {
+    "url": "https://result.election.gov.np/JSONFiles/Election2079/HOR/PR/HOR/HOR-78-1.json",
+    "status": null,
+    "ok": true,
+    "path": "elections/2079/general/datasets/hor/pr/constituencies/HOR-78-1.json",
+    "error": null
+  }
+]

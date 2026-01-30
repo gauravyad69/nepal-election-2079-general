@@ -1,0 +1,12 @@
+# Local captures / raw HTTP exports
+HTTPToolkit_*.har
+out/raw/
+out/raw_manifest.json
+
+# Python caches
+__pycache__/
+*.pyc
+
+# OS/editor junk
+.DS_Store
+.vscode/
