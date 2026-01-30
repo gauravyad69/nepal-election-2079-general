@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Extract Nepal ECN General Election 2079 datasets.
+"""Extract Nepal ECN General Election datasets.
 
 This script is designed for working from an HTTP Toolkit HAR capture, but it can
 also complete missing content by fetching public JSON/image endpoints directly
@@ -8,7 +8,7 @@ from https://result.election.gov.np.
 Outputs a clean, hierarchical folder structure under --out.
 
 Example:
-  python3 extract_general_2079.py --har HTTPToolkit_2026-01-30_18-39.har --out out --fetch-missing --download-photos
+    python3 extract_general_2079.py --year 2079 --har HTTPToolkit_2026-01-30_18-39.har --out out --fetch-missing --download-photos
 """
 
 from __future__ import annotations
@@ -211,6 +211,34 @@ def extract_raw_from_har(entries: list[dict[str, Any]], out_dir: Path) -> list[d
 
 def _ecn_url(path: str) -> str:
     return urllib.parse.urljoin(ECN_BASE + "/", path.lstrip("/"))
+
+
+def _url_status(url: str, timeout_s: int = 30) -> int | None:
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+            "Accept": "*/*",
+        },
+        method="GET",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=timeout_s) as resp:
+            # Read a small amount so proxies/CDNs don't return misleading status.
+            resp.read(1)
+            return getattr(resp, "status", 200)
+    except urllib.error.HTTPError as e:
+        return getattr(e, "code", None)
+    except Exception:
+        return None
+
+
+def _pick_first_existing_url(urls: list[str]) -> str | None:
+    for u in urls:
+        st = _url_status(u)
+        if st is not None and 200 <= st < 300:
+            return u
+    return None
 
 
 def _download_many(urls: list[str], out_paths: list[Path], *, max_workers: int) -> list[FetchResult]:
@@ -443,6 +471,18 @@ def _dedupe_hor_fptp_candidates(*, base_dir: Path) -> list[dict[str, Any]]:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
+    ap.add_argument(
+        "--year",
+        type=int,
+        default=2079,
+        help="Election year in Bikram Sambat (e.g. 2079, 2082). Note: older years may not be hosted on result.election.gov.np.",
+    )
+    ap.add_argument(
+        "--base-url",
+        type=str,
+        default=ECN_BASE,
+        help="Base URL for ECN results site (override if using an archive/mirror).",
+    )
     ap.add_argument("--har", type=Path, required=False, help="Path to HTTP Toolkit .har")
     ap.add_argument("--out", type=Path, default=Path("out"), help="Output directory")
     ap.add_argument("--fetch-missing", action="store_true", help="Fetch key datasets not present in HAR")
@@ -451,6 +491,9 @@ def main() -> int:
     ap.add_argument("--max-workers", type=int, default=8, help="Max parallel downloads")
     ap.add_argument("--max-photo-workers", type=int, default=8, help="Max parallel photo downloads")
     args = ap.parse_args()
+
+    global ECN_BASE
+    ECN_BASE = (args.base_url or ECN_BASE).rstrip("/")
 
     out_dir: Path = args.out
     _mkdir(out_dir)
@@ -464,7 +507,8 @@ def main() -> int:
         manifest = extract_raw_from_har(entries, out_dir)
         print(f"Raw manifest written: {out_dir / 'raw_manifest.json'}")
 
-    base = out_dir / "elections" / "2079" / "general"
+    year = int(args.year)
+    base = out_dir / "elections" / str(year) / "general"
     lookup_dir = base / "lookups"
     data_dir = base / "datasets"
     media_dir = base / "media"
@@ -473,20 +517,35 @@ def main() -> int:
     _mkdir(data_dir)
     _mkdir(media_dir)
 
+    election_root = f"/JSONFiles/Election{year}"
+
     # --- Core lookups ---
-    lookups = {
-        "states": "/JSONFiles/Election2079/Local/Lookup/states.json",
-        "districts": "/JSONFiles/Election2079/Local/Lookup/districts.json",
-        "constituencies": "/JSONFiles/Election2079/HOR/Lookup/constituencies.json",
+    # Endpoint layouts have changed across elections; try a small set of known variants.
+    lookups: dict[str, list[str]] = {
+        "states": [
+            f"{election_root}/Local/Lookup/states.json",
+            f"{election_root}/Local/lookup/states.json",
+        ],
+        "districts": [
+            f"{election_root}/Local/Lookup/districts.json",
+            f"{election_root}/Local/lookup/districts.json",
+        ],
+        "constituencies": [
+            f"{election_root}/HOR/Lookup/constituencies.json",
+            f"{election_root}/HoR/Lookup/constituencies.json",
+        ],
     }
 
-    for name, path in lookups.items():
-        url = _ecn_url(path)
+    for name, paths in lookups.items():
         out_path = lookup_dir / f"{name}.json"
         if out_path.exists() and out_path.stat().st_size > 0:
             continue
         if not args.fetch_missing and not args.har:
             # without HAR and without fetch, we can't proceed
+            continue
+        url = _pick_first_existing_url([_ecn_url(p) for p in paths])
+        if not url:
+            print(f"Lookup endpoint not found for '{name}' (year={year}).")
             continue
         print(f"Fetching lookup: {name}")
         res = fetch_to_file(url, out_path)
@@ -495,6 +554,11 @@ def main() -> int:
 
     if not (lookup_dir / "constituencies.json").exists():
         print("Missing lookups/constituencies.json; rerun with --fetch-missing.")
+        # Provide a hint for the common "year not hosted" case.
+        sample_url = _ecn_url(f"/JSONFiles/Election{year}/Local/Lookup/states.json")
+        sample_status = _url_status(sample_url)
+        if sample_status == 404:
+            print(f"Note: {sample_url} returned 404; year {year} may not be hosted on {ECN_BASE}.")
         return 2
 
     constituencies = _load_json(lookup_dir / "constituencies.json")
@@ -505,19 +569,19 @@ def main() -> int:
     for dist_id, const_id in pairs:
         per_const_tasks.append(
             (
-                _ecn_url(f"/JSONFiles/Election2079/HOR/FPTP/HOR-{dist_id}-{const_id}.json"),
+                _ecn_url(f"{election_root}/HOR/FPTP/HOR-{dist_id}-{const_id}.json"),
                 data_dir / "hor" / "fptp" / "constituencies" / f"HOR-{dist_id}-{const_id}.json",
             )
         )
         per_const_tasks.append(
             (
-                _ecn_url(f"/JSONFiles/Election2079/HOR/PR/HOR/HOR-{dist_id}-{const_id}.json"),
+                _ecn_url(f"{election_root}/HOR/PR/HOR/HOR-{dist_id}-{const_id}.json"),
                 data_dir / "hor" / "pr" / "constituencies" / f"HOR-{dist_id}-{const_id}.json",
             )
         )
         per_const_tasks.append(
             (
-                _ecn_url(f"/JSONFiles/Election2079/PA/PR/HOR/HOR-{dist_id}-{const_id}.json"),
+                _ecn_url(f"{election_root}/PA/PR/HOR/HOR-{dist_id}-{const_id}.json"),
                 data_dir / "pa" / "pr" / "constituencies" / f"HOR-{dist_id}-{const_id}.json",
             )
         )
@@ -672,29 +736,52 @@ def main() -> int:
         did = d.get("id")
         if not isinstance(did, int):
             continue
-        agg_tasks.append((_ecn_url(f"/JSONFiles/Election2079/HOR/PR/District/{did}.json"), data_dir / "hor" / "pr" / "districts" / f"{did}.json"))
-        agg_tasks.append((_ecn_url(f"/JSONFiles/Election2079/PA/PR/District/{did}.json"), data_dir / "pa" / "pr" / "districts" / f"{did}.json"))
+        agg_tasks.append((_ecn_url(f"{election_root}/HOR/PR/District/{did}.json"), data_dir / "hor" / "pr" / "districts" / f"{did}.json"))
+        agg_tasks.append((_ecn_url(f"{election_root}/PA/PR/District/{did}.json"), data_dir / "pa" / "pr" / "districts" / f"{did}.json"))
 
     for s in states:
         sid = s.get("id")
         if not isinstance(sid, int):
             continue
-        agg_tasks.append((_ecn_url(f"/JSONFiles/Election2079/HOR/PR/Province/{sid}.json"), data_dir / "hor" / "pr" / "provinces" / f"{sid}.json"))
-        agg_tasks.append((_ecn_url(f"/JSONFiles/Election2079/PA/PR/Province/{sid}.json"), data_dir / "pa" / "pr" / "provinces" / f"{sid}.json"))
+        agg_tasks.append((_ecn_url(f"{election_root}/HOR/PR/Province/{sid}.json"), data_dir / "hor" / "pr" / "provinces" / f"{sid}.json"))
+        agg_tasks.append((_ecn_url(f"{election_root}/PA/PR/Province/{sid}.json"), data_dir / "pa" / "pr" / "provinces" / f"{sid}.json"))
 
     # Summary/top5 files
     top5_tasks: list[tuple[str, Path]] = []
-    top5_tasks.append((_ecn_url("/JSONFiles/Election2079/Common/HoRPartyTop5.txt"), data_dir / "summary" / "top5" / "HoRPartyTop5.json"))
-    top5_tasks.append((_ecn_url("/JSONFiles/Election2079/Common/PRHoRPartyTop5.txt"), data_dir / "summary" / "top5" / "PRHoRPartyTop5.json"))
+    top5_tasks.append((_ecn_url(f"{election_root}/Common/HoRPartyTop5.txt"), data_dir / "summary" / "top5" / "HoRPartyTop5.json"))
+    top5_tasks.append((_ecn_url(f"{election_root}/Common/PRHoRPartyTop5.txt"), data_dir / "summary" / "top5" / "PRHoRPartyTop5.json"))
     for i in range(1, 8):
-        top5_tasks.append((_ecn_url(f"/JSONFiles/Election2079/Common/PAPartyTop5-S{i}.txt"), data_dir / "summary" / "top5" / f"PAPartyTop5-S{i}.json"))
-        top5_tasks.append((_ecn_url(f"/JSONFiles/Election2079/Common/PRPAPartyTop5-S{i}.txt"), data_dir / "summary" / "top5" / f"PRPAPartyTop5-S{i}.json"))
+        top5_tasks.append((_ecn_url(f"{election_root}/Common/PAPartyTop5-S{i}.txt"), data_dir / "summary" / "top5" / f"PAPartyTop5-S{i}.json"))
+        top5_tasks.append((_ecn_url(f"{election_root}/Common/PRPAPartyTop5-S{i}.txt"), data_dir / "summary" / "top5" / f"PRPAPartyTop5-S{i}.json"))
 
-    # Central PR results
-    central_tasks = [
-        (_ecn_url("/JSONFiles/ElectionResultCentralPR.txt"), data_dir / "pr" / "central" / "ElectionResultCentralPR.json"),
-        (_ecn_url("/JSONFiles/ElectedCandidatePRCentral.txt"), data_dir / "pr" / "central" / "ElectedCandidatePRCentral.json"),
-    ]
+    # Central results endpoints vary by election.
+    central_tasks: list[tuple[str, Path]] = []
+
+    central_candidate = _pick_first_existing_url(
+        [
+            _ecn_url(f"/JSONFiles/ElectionResultCentral{year}.txt"),
+            _ecn_url("/JSONFiles/ElectionResultCentral.txt"),
+        ]
+    )
+    if central_candidate:
+        central_tasks.append((central_candidate, data_dir / "summary" / "central" / f"ElectionResultCentral{year}.json"))
+
+    pr_central = _pick_first_existing_url(
+        [
+            _ecn_url("/JSONFiles/ElectionResultCentralPR.txt"),
+            _ecn_url(f"/JSONFiles/ElectionResultCentralPR{year}.txt"),
+        ]
+    )
+    pr_elected = _pick_first_existing_url(
+        [
+            _ecn_url("/JSONFiles/ElectedCandidatePRCentral.txt"),
+            _ecn_url(f"/JSONFiles/ElectedCandidatePRCentral{year}.txt"),
+        ]
+    )
+    if pr_central:
+        central_tasks.append((pr_central, data_dir / "pr" / "central" / "ElectionResultCentralPR.json"))
+    if pr_elected:
+        central_tasks.append((pr_elected, data_dir / "pr" / "central" / "ElectedCandidatePRCentral.json"))
 
     if args.fetch_missing:
         all_tasks = agg_tasks + top5_tasks + central_tasks
@@ -818,9 +905,9 @@ def main() -> int:
     if not readme_path.exists():
         _mkdir(readme_path.parent)
         readme_path.write_text(
-            """# ECN — General Election 2079 (Extracted)
+            f"""# ECN — General Election {year} (Extracted)
 
-This folder is generated by `extract_general_2079.py`.
+This folder is generated by `extract_general_2079.py --year {year}`.
 
 ## Structure
 

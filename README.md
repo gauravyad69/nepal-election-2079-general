@@ -29,7 +29,13 @@ The normalized index embeds pointers to the relevant geo files for each constitu
 
 From the repo root:
 
-- `python3 extract_general_2079.py --out out --download-geo`
+- `python3 extract_general_2079.py --year 2079 --out out --download-geo`
+
+If you have an archive/mirror for older elections, you can override the host:
+
+- `python3 extract_general_2079.py --year 2074 --base-url https://<archive-host> --out out --fetch-missing`
+
+Note: as of 2026-01-30, `https://result.election.gov.np/` appears to host election JSON for years 2079 and 2082 (standard lookup endpoints for 2074 return HTTP 404).
 
 ## Data source
 
