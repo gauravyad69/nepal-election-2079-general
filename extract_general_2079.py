@@ -32,7 +32,9 @@ from pathlib import Path
 from typing import Any, Iterable
 
 
-ECN_BASE = "https://result.election.gov.np"
+DEFAULT_ECN_BASE = "https://result.election.gov.np"
+# NOTE: This is overridden at runtime via --base-url.
+ECN_BASE = DEFAULT_ECN_BASE
 
 
 @dataclass(frozen=True)
@@ -470,6 +472,7 @@ def _dedupe_hor_fptp_candidates(*, base_dir: Path) -> list[dict[str, Any]]:
 
 
 def main() -> int:
+    global ECN_BASE
     ap = argparse.ArgumentParser()
     ap.add_argument(
         "--year",
@@ -483,6 +486,12 @@ def main() -> int:
         default=ECN_BASE,
         help="Base URL for ECN results site (override if using an archive/mirror).",
     )
+    ap.add_argument(
+        "--election-root",
+        type=str,
+        default=None,
+        help="Override JSON root prefix (default: /JSONFiles/Election<year>). Useful if older elections use a different layout.",
+    )
     ap.add_argument("--har", type=Path, required=False, help="Path to HTTP Toolkit .har")
     ap.add_argument("--out", type=Path, default=Path("out"), help="Output directory")
     ap.add_argument("--fetch-missing", action="store_true", help="Fetch key datasets not present in HAR")
@@ -492,7 +501,6 @@ def main() -> int:
     ap.add_argument("--max-photo-workers", type=int, default=8, help="Max parallel photo downloads")
     args = ap.parse_args()
 
-    global ECN_BASE
     ECN_BASE = (args.base_url or ECN_BASE).rstrip("/")
 
     out_dir: Path = args.out
@@ -517,7 +525,7 @@ def main() -> int:
     _mkdir(data_dir)
     _mkdir(media_dir)
 
-    election_root = f"/JSONFiles/Election{year}"
+    election_root = (args.election_root or f"/JSONFiles/Election{year}").rstrip("/")
 
     # --- Core lookups ---
     # Endpoint layouts have changed across elections; try a small set of known variants.
@@ -553,9 +561,12 @@ def main() -> int:
             print(f"  failed: {url} ({res.error})")
 
     if not (lookup_dir / "constituencies.json").exists():
-        print("Missing lookups/constituencies.json; rerun with --fetch-missing.")
+        if args.fetch_missing:
+            print("Missing lookups/constituencies.json (no lookup endpoints found for this configuration).")
+        else:
+            print("Missing lookups/constituencies.json; rerun with --fetch-missing.")
         # Provide a hint for the common "year not hosted" case.
-        sample_url = _ecn_url(f"/JSONFiles/Election{year}/Local/Lookup/states.json")
+        sample_url = _ecn_url(f"{election_root}/Local/Lookup/states.json")
         sample_status = _url_status(sample_url)
         if sample_status == 404:
             print(f"Note: {sample_url} returned 404; year {year} may not be hosted on {ECN_BASE}.")
