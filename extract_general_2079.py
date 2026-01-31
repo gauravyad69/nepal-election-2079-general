@@ -47,6 +47,57 @@ class FetchResult:
     error: str | None = None
 
 
+@dataclass(frozen=True)
+class HarCache:
+    """Maps request URLs captured in a HAR to extracted raw response files."""
+
+    out_dir: Path
+    by_url: dict[str, Path]
+    by_path: dict[str, list[Path]]
+
+    def match(self, url: str) -> Path | None:
+        p = self.by_url.get(url)
+        if p is not None:
+            return p
+        try:
+            parsed = urllib.parse.urlparse(url)
+            url_path = parsed.path
+        except Exception:
+            return None
+        candidates = self.by_path.get(url_path)
+        if not candidates:
+            return None
+        if len(candidates) == 1:
+            return candidates[0]
+        return None
+
+
+def _build_har_cache(out_dir: Path, manifest: list[dict[str, Any]] | None) -> HarCache | None:
+    if not manifest:
+        return None
+    by_url: dict[str, Path] = {}
+    by_path: dict[str, list[Path]] = {}
+    for row in manifest:
+        if not isinstance(row, dict):
+            continue
+        if not row.get("saved"):
+            continue
+        url = row.get("url")
+        rel = row.get("path")
+        if not isinstance(url, str) or not isinstance(rel, str):
+            continue
+        src = out_dir / rel
+        if not src.exists() or src.stat().st_size <= 0:
+            continue
+        by_url.setdefault(url, src)
+        try:
+            parsed = urllib.parse.urlparse(url)
+            by_path.setdefault(parsed.path, []).append(src)
+        except Exception:
+            pass
+    return HarCache(out_dir=out_dir, by_url=by_url, by_path=by_path)
+
+
 def _safe_relpath_for_url(url: str) -> str:
     parsed = urllib.parse.urlparse(url)
     host = parsed.netloc.replace(":", "_")
@@ -124,9 +175,18 @@ def _http_get(url: str, timeout_s: int = 60) -> tuple[int, dict[str, str], bytes
     return status, headers, data
 
 
-def fetch_to_file(url: str, out_path: Path, *, skip_if_exists: bool = True) -> FetchResult:
+def fetch_to_file(url: str, out_path: Path, *, har_cache: HarCache | None = None, skip_if_exists: bool = True) -> FetchResult:
     if skip_if_exists and out_path.exists() and out_path.stat().st_size > 0:
         return FetchResult(url=url, status=None, ok=True, path=out_path, bytes_written=0)
+
+    if har_cache is not None:
+        src = har_cache.match(url)
+        if src is not None:
+            try:
+                bytes_written = _write_bytes(out_path, src.read_bytes())
+                return FetchResult(url=url, status=None, ok=True, path=out_path, bytes_written=bytes_written)
+            except Exception as e:
+                return FetchResult(url=url, status=None, ok=False, path=out_path, bytes_written=0, error=repr(e))
 
     try:
         status, headers, data = _http_get(url)
@@ -243,10 +303,10 @@ def _pick_first_existing_url(urls: list[str]) -> str | None:
     return None
 
 
-def _download_many(urls: list[str], out_paths: list[Path], *, max_workers: int) -> list[FetchResult]:
+def _download_many(urls: list[str], out_paths: list[Path], *, max_workers: int, har_cache: HarCache | None = None) -> list[FetchResult]:
     results: list[FetchResult] = []
     with ThreadPoolExecutor(max_workers=max_workers) as ex:
-        futs = [ex.submit(fetch_to_file, u, p) for u, p in zip(urls, out_paths, strict=True)]
+        futs = [ex.submit(fetch_to_file, u, p, har_cache=har_cache) for u, p in zip(urls, out_paths, strict=True)]
         for f in as_completed(futs):
             results.append(f.result())
     return results
@@ -507,12 +567,14 @@ def main() -> int:
     _mkdir(out_dir)
 
     manifest = None
+    har_cache: HarCache | None = None
     entries: list[dict[str, Any]] = []
     if args.har:
         entries = _parse_har_entries(args.har)
         print(f"HAR entries: {len(entries)}")
         print("Extracting raw responses from HAR...")
         manifest = extract_raw_from_har(entries, out_dir)
+        har_cache = _build_har_cache(out_dir, manifest)
         print(f"Raw manifest written: {out_dir / 'raw_manifest.json'}")
 
     year = int(args.year)
@@ -556,7 +618,7 @@ def main() -> int:
             print(f"Lookup endpoint not found for '{name}' (year={year}).")
             continue
         print(f"Fetching lookup: {name}")
-        res = fetch_to_file(url, out_path)
+        res = fetch_to_file(url, out_path, har_cache=har_cache)
         if not res.ok:
             print(f"  failed: {url} ({res.error})")
 
@@ -609,7 +671,7 @@ def main() -> int:
 
     if args.fetch_missing:
         print(f"Fetching constituency datasets: {len(uniq_tasks)} files")
-        results = _download_many([u for u, _ in uniq_tasks], [p for _, p in uniq_tasks], max_workers=args.max_workers)
+        results = _download_many([u for u, _ in uniq_tasks], [p for _, p in uniq_tasks], max_workers=args.max_workers, har_cache=har_cache)
         _write_json(
             base / "fetch_results_constituencies.json",
             [
@@ -686,7 +748,7 @@ def main() -> int:
             uniq_geo.append((url, pth))
 
         print(f"Fetching GeoJSON boundaries: {len(uniq_geo)} files")
-        results = _download_many([u for u, _ in uniq_geo], [p for _, p in uniq_geo], max_workers=args.max_workers)
+        results = _download_many([u for u, _ in uniq_geo], [p for _, p in uniq_geo], max_workers=args.max_workers, har_cache=har_cache)
         _write_json(
             base / "fetch_results_geo.json",
             [
@@ -797,7 +859,7 @@ def main() -> int:
     if args.fetch_missing:
         all_tasks = agg_tasks + top5_tasks + central_tasks
         print(f"Fetching aggregate + summary datasets: {len(all_tasks)} files")
-        results = _download_many([u for u, _ in all_tasks], [p for _, p in all_tasks], max_workers=args.max_workers)
+        results = _download_many([u for u, _ in all_tasks], [p for _, p in all_tasks], max_workers=args.max_workers, har_cache=har_cache)
         _write_json(
             base / "fetch_results_aggregates.json",
             [
@@ -851,7 +913,7 @@ def main() -> int:
             cand_tasks.append((url, media_dir / "candidates" / f"{cid}.jpg"))
 
         print(f"Downloading candidate photos: {len(cand_tasks)}")
-        results = _download_many([u for u, _ in cand_tasks], [p for _, p in cand_tasks], max_workers=args.max_photo_workers)
+        results = _download_many([u for u, _ in cand_tasks], [p for _, p in cand_tasks], max_workers=args.max_photo_workers, har_cache=har_cache)
         for r in results:
             if r.ok and r.path.exists() and r.path.stat().st_size > 0:
                 cid = int(r.path.stem)
@@ -864,7 +926,7 @@ def main() -> int:
             sym_tasks.append((_ecn_url(f"/Images/Symbols/{sid}.jpg"), media_dir / "symbols" / "Symbols" / f"{sid}.jpg"))
 
         print(f"Downloading party symbols: {len(sym_tasks)}")
-        results = _download_many([u for u, _ in sym_tasks], [p for _, p in sym_tasks], max_workers=args.max_photo_workers)
+        results = _download_many([u for u, _ in sym_tasks], [p for _, p in sym_tasks], max_workers=args.max_photo_workers, har_cache=har_cache)
         for r in results:
             if not r.ok or not r.path.exists() or r.path.stat().st_size == 0:
                 continue
